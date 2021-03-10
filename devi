@@ -1,4 +1,4 @@
-# hii world mass Simple{  
+# hello world mass Simple{  
     public static void main(String args[]){  
      System.out.println("Hello Java");  
     }  
